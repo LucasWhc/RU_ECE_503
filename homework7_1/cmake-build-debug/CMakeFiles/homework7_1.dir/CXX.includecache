@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/homework7_1/Polynomial.cpp
+Polynomial.h
+E:/Program Files (x86)/cpp/homework7_1/Polynomial.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework7_1/Polynomial.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework7_1/main.cpp
+iostream
+-
+Polynomial.h
+E:/Program Files (x86)/cpp/homework7_1/Polynomial.h
+

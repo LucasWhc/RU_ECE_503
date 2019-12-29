@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/homework10/Linkedlist.cpp
+Linkedlist.h
+E:/Program Files (x86)/cpp/homework10/Linkedlist.h
+iostream
+-
+iomanip
+-
+
+E:/Program Files (x86)/cpp/homework10/Linkedlist.h
+string
+-
+Node.h
+E:/Program Files (x86)/cpp/homework10/Node.h
+
+E:/Program Files (x86)/cpp/homework10/Node.h
+string
+-
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Program Files (x86)/cpp/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final">
+				<Option output="E:/Program Files (x86)/cpp/final/cmake-build-debug/final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Program Files (x86)/cpp/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Program"/>
+					<Add directory="E:/Program Files (x86)/cpp/final/Files/MATLAB/R2019b/extern/include"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 final"/>
+					<CompileFile command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="final/fast">
+				<Option output="E:/Program Files (x86)/cpp/final/cmake-build-debug/final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Program Files (x86)/cpp/final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Program"/>
+					<Add directory="E:/Program Files (x86)/cpp/final/Files/MATLAB/R2019b/extern/include"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Applications/MinGW-W64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 final/fast"/>
+					<CompileFile command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Program Files (x86)/cpp/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Program Files (x86)/cpp/final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Applications/MinGW-W64/mingw32/bin/mingw32-make.exe -f &quot;E:/Program Files (x86)/cpp/final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Account_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Account_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/BankAccount_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/BankAccount_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Filer_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Filer_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/LinkedList_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/LinkedList_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Main_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Node_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Sort_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Sort_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/StockAccount_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/StockAccount_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/StockAccount_Matlab_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Timer_Haocong.cpp">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/Timer_Haocong.h">
+			<Option target="final"/>
+		</Unit>
+		<Unit filename="E:/Program Files (x86)/cpp/final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

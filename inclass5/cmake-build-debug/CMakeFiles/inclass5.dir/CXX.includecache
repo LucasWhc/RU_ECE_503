@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/inclass5/IntegerSet.h
+
+E:/Program Files (x86)/cpp/inclass5/main.cpp
+iostream
+-
+IntegerSet.h
+E:/Program Files (x86)/cpp/inclass5/IntegerSet.h
+

@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/homework8/Circle.cpp
+Circle.h
+E:/Program Files (x86)/cpp/homework8/Circle.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework8/Circle.h
+TwoDimensionalShape.h
+E:/Program Files (x86)/cpp/homework8/TwoDimensionalShape.h
+
+E:/Program Files (x86)/cpp/homework8/Shape.h
+
+E:/Program Files (x86)/cpp/homework8/Sphere.h
+ThreeDimensionalShape.h
+E:/Program Files (x86)/cpp/homework8/ThreeDimensionalShape.h
+
+E:/Program Files (x86)/cpp/homework8/Tetrahedron.h
+ThreeDimensionalShape.h
+E:/Program Files (x86)/cpp/homework8/ThreeDimensionalShape.h
+
+E:/Program Files (x86)/cpp/homework8/ThreeDimensionalShape.h
+Shape.h
+E:/Program Files (x86)/cpp/homework8/Shape.h
+
+E:/Program Files (x86)/cpp/homework8/Triangle.h
+TwoDimensionalShape.h
+E:/Program Files (x86)/cpp/homework8/TwoDimensionalShape.h
+
+E:/Program Files (x86)/cpp/homework8/TwoDimensionalShape.h
+Shape.h
+E:/Program Files (x86)/cpp/homework8/Shape.h
+
+E:/Program Files (x86)/cpp/homework8/main.cpp
+iostream
+-
+Circle.h
+E:/Program Files (x86)/cpp/homework8/Circle.h
+Triangle.h
+E:/Program Files (x86)/cpp/homework8/Triangle.h
+Sphere.h
+E:/Program Files (x86)/cpp/homework8/Sphere.h
+Tetrahedron.h
+E:/Program Files (x86)/cpp/homework8/Tetrahedron.h
+

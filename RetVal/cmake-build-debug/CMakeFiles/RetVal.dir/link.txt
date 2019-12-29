@@ -1,0 +1,3 @@
+"E:\Program Files (x86)\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\RetVal.dir/objects.a
+D:\Applications\bin\ar.exe cr CMakeFiles\RetVal.dir/objects.a @CMakeFiles\RetVal.dir\objects1.rsp
+D:\Applications\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RetVal.dir/objects.a -Wl,--no-whole-archive  -o RetVal.exe -Wl,--out-implib,libRetVal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RetVal.dir\linklibs.rsp

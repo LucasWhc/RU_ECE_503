@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/homework9/OvernightPackage.cpp
+OvernightPackage.h
+E:/Program Files (x86)/cpp/homework9/OvernightPackage.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework9/OvernightPackage.h
+Package.h
+E:/Program Files (x86)/cpp/homework9/Package.h
+
+E:/Program Files (x86)/cpp/homework9/Package.cpp
+Package.h
+E:/Program Files (x86)/cpp/homework9/Package.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework9/Package.h
+
+E:/Program Files (x86)/cpp/homework9/TwoDayPackage.cpp
+TwoDayPackage.h
+E:/Program Files (x86)/cpp/homework9/TwoDayPackage.h
+iostream
+-
+
+E:/Program Files (x86)/cpp/homework9/TwoDayPackage.h
+Package.h
+E:/Program Files (x86)/cpp/homework9/Package.h
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/homework11/Booklist.h
+iostream
+-
+cstring
+-
+
+E:/Program Files (x86)/cpp/homework11/main.cpp
+iostream
+-
+string
+-
+Booklist.h
+E:/Program Files (x86)/cpp/homework11/Booklist.h
+

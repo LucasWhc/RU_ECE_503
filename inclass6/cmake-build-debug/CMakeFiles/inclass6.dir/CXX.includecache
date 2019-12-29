@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Program Files (x86)/cpp/inclass6/main.cpp
+iostream
+-
+point.h
+E:/Program Files (x86)/cpp/inclass6/point.h
+threedimensionalpoint.h
+E:/Program Files (x86)/cpp/inclass6/threedimensionalpoint.h
+
+E:/Program Files (x86)/cpp/inclass6/point.h
+
+E:/Program Files (x86)/cpp/inclass6/threedimensionalpoint.h
+point.h
+E:/Program Files (x86)/cpp/inclass6/point.h
+
